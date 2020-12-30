@@ -1,1 +1,14 @@
 language: typescript
+
+node_js: 
+  - 'node'
+  - '12'
+  - '10'
+
+branches:
+  only:
+  - master
+
+cache:
+  directories:
+    - node_modules
