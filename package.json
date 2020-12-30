@@ -1,0 +1,11 @@
+{
+  "name": "image-compressor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Juan Garcia <me@juan.engineer>",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w"
+  }
+}
