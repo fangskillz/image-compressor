@@ -9,8 +9,18 @@ ___
 
 * NONE
 
-Install via NPM 
+# Install via NPM 
 ___
+```sh
+    npm install fang-compressor --save-dev
+```
+
+# Install via Yarn
+___
+```sh
+    yarn add --dev fang-compressor
+```
+
 
 # How it works
 ___
